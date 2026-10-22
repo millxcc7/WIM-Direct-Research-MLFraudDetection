@@ -40,8 +40,8 @@ Data/
 .
 ├── README.md
 ├── .gitignore
-├── isolationforest_fraud.ipynb      # Exploratory data analysis + baseline model
-└── ...                              # Experiment notebooks / results
+├── Isolationforest_Dataexp.ipynb     # Exploratory data analysis for Isolation Forest
+└── Isolationforest_experiment.ipynb  # Experiment notebooks / results
 ```
 
 ---
